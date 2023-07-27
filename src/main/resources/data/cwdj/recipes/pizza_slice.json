@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    " T ",
+    " F "
+  ],
+  "key": {
+    "C": {
+      "item": "cwdj:shredded_cheese"
+    },
+    "T": {
+      "item": "cwdj:tomato_sauce"
+    },
+    "F": {
+      "item": "cwdj:pizza_crust"
+    }
+  },
+  "result": {
+    "item": "cwdj:pizza_slice",
+    "count": 4
+  }
+}

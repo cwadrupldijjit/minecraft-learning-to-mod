@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=east": { "model": "cwdj:block/counter" },
+        "facing=south": { "model": "cwdj:block/counter", "y": 90 },
+        "facing=west": { "model": "cwdj:block/counter", "y": 180 },
+        "facing=north": { "model": "cwdj:block/counter", "y": 270 }
+    }
+}
